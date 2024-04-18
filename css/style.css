@@ -18,7 +18,7 @@
 .theme-btn {
   z-index: 999999;
   position: fixed;
-  right: 20px;
+  right: 15px;
   top: 100px;
   display: flex;
   justify-content: center;
@@ -26,9 +26,9 @@
   background-color: var(--main-color);
   color: var(--bg-color);
   backdrop-filter: blur(20px);
-  width: 45px;
-  height: 45px;
-  font-size: 1.5rem;
+  width: 35px;
+  height: 35px;
+  font-size: 1.3rem;
   border-radius: 6px;
   box-shadow: 0 0 20px transparent;
   cursor: pointer;
@@ -288,7 +288,7 @@ span {
 }
 /* end skills */
 
-/* start portfolio */
+/* start project */
 .projects {
   background-color: var(--secound-bg-color);
 }
@@ -313,6 +313,11 @@ span {
   padding: 20px;
   transition: all 0.5s ease;
 }
+.row:hover {
+  border: 1px solid var(--main-color);
+  transform: translateY(-5px) scale(1.03);
+  /* cursor: pointer; */
+}
 .main-row {
   display: flex;
   justify-content: space-between;
@@ -328,28 +333,24 @@ span {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 55px;
-  height: 55px;
-  font-size: 27px;
+  width: 38px;
+  height: 38px;
+  margin-right: 5px;
+  font-size: 23px;
   border-radius: 50%;
   color: #fff;
   background-color: var(--other-color3);
   margin-top: 5px;
 }
-.row i:hover {
-  transform: translateY(-1.5px) scale(1.03);
+.created-by{
+  display: flex;
+  /* justify-content: center; */
 }
-.row h4 {
-  font-size: 22px;
-  font-weight: 700;
-  margin-bottom: 10px;
-  line-height: 1.4;
+.created-by img {
+width: 24px;
+margin-right: 4px;
 }
-.row:hover {
-  border: 1px solid var(--main-color);
-  transform: translateY(-5px) scale(1.03);
-  cursor: pointer;
-}
+
 /* end projects */
 
 /* start contact */
@@ -422,9 +423,9 @@ form .send-btn:hover {
   z-index: 99999;
   position: fixed;
   right: 0;
-  bottom: 20px;
-  width: 45px;
-  height: 45px;
+  bottom: 15px;
+  width: 35px;
+  height: 35px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -432,12 +433,12 @@ form .send-btn:hover {
   background-color: var(--main-color);
   cursor: pointer;
   color: var(--text-color);
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   opacity: 0;
   transition: 0.5s ease;
 }
 .scrolltotop-btn.active {
-  right: 20px;
+  right: 15px;
   opacity: 1;
   pointer-events: all;
 }
