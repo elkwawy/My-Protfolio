@@ -138,12 +138,11 @@ section {
   height: 100vh;
   width: 100%;
   background-color: var(--bg-color);
-  /* background-image: url(../img/background.jpg);
-  background-position: top right;
-  background-size: cover; */
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  /* overflow: hidden; */
+  /* justify-content: space-between; */
 }
 .hero .main-content h4 {
   font-size: 1.6rem;
@@ -154,6 +153,10 @@ section {
   margin: 20px 0;
   line-height: 1.2;
 }
+/* .hero-img img {
+  width: 600px;
+  margin-bottom: -55px;
+} */
 span {
   color: var(--main-color);
 }
@@ -233,6 +236,7 @@ span {
   object-fit: cover;
   border: 7px solid var(--main-color);
   box-shadow: 0 0 20px var(--main-color);
+  background-color: var(--bg-color);
 }
 .about-text h2 {
   font-size: var(--h2-font);
@@ -462,6 +466,7 @@ form .send-btn:hover {
   }
 }
 @media (max-width: 1380px) {
+
   header {
     padding: 20px 5%;
   }
@@ -475,7 +480,7 @@ form .send-btn:hover {
     padding: 18px 5%;
   }
   .hero {
-    /* height: 90vh; */
+    height: 85vh;
     background-position: center;
   }
 }
@@ -514,6 +519,7 @@ form .send-btn:hover {
   }
 }
 @media (max-width: 950px) {
+
   .main-content p {
     width: 70% !important;
   }
@@ -548,7 +554,9 @@ form .send-btn:hover {
     .main-content h1 {
     font-size: 27px !important;
   }
-
+  .hero-img{
+    display: none;
+  }
 }
 @media (max-width: 680px) {
   .main-content p {
