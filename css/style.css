@@ -250,7 +250,7 @@ span {
   line-height: 42px;
 }
 .exp-area p span {
-  color: var(--other-color1);
+  color: var(--other-color1) !important;
   font-size: var(--p-font);
   font-weight: 400;
   margin-left: 8px;

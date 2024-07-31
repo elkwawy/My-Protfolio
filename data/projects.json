@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Controllers-website",
+        "image": "./img/proj-6.png",
+        "urlGithub": "https://github.com/elkwawy/Controllers-website",
+        "urlSite": "https://elkwawy.github.io/Controllers-website/",
+        "skills": [
+            "./img/html-5.png",
+            "./img/css-3.png"
+        ]
+    },
+    {
+        "title": "Presonal-website",
+        "image": "./img/proj-4.png",
+        "urlGithub": "https://github.com/elkwawy/Personal-website",
+        "urlSite": "https://elkwawy.github.io/Personal-website/",
+        "skills": [
+            "./img/html-5.png",
+            "./img/css-3.png",
+            "./img/js.png"
+        ]
+    },
+    {
+        "title": "Bondi-website",
+        "image": "./img/proj-5.png",
+        "urlGithub": "https://github.com/elkwawy/Bondi-website ",
+        "urlSite": "https://elkwawy.github.io/Bondi-website/",
+        "skills": [
+            "./img/html-5.png",
+            "./img/css-3.png",
+            "./img/bootstrap.png"
+        ]
+    },
+    {
+        "title": "Kasper-website",
+        "image": "./img/proj-3.png",
+        "urlGithub": "https://github.com/elkwawy/Kasper-website",
+        "urlSite": "https://elkwawy.github.io/Kasper-website/",
+        "skills": [
+            "./img/html-5.png",
+            "./img/css-3.png"
+        ]
+    },
+    {
+        "title": "To-Do List",
+        "image": "./img/proj-2.png",
+        "urlGithub": "https://github.com/elkwawy/To-Do-List",
+        "urlSite": "https://elkwawy.github.io/To-Do-List/",
+        "skills": [
+            "./img/html-5.png",
+            "./img/css-3.png",
+            "./img/js.png"
+        ]
+    },
+    {
+        "title": "Leon-website",
+        "image": "./img/proj-1.png",
+        "urlGithub": "https://github.com/elkwawy/Leon-website",
+        "urlSite": "https://elkwawy.github.io/Leon-website/",
+        "skills": [
+            "./img/html-5.png",
+            "./img/css-3.png"
+        ]
+    }
+]
