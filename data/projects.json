@@ -1,65 +1,85 @@
 [
     {
+        "title": "GYM-SITE",
+        "image": "./img/projects/proj-8.png",
+        "urlGithub": "private",
+        "urlSite": "https://accessories16.vercel.app",
+        "skills": [
+            "./img/skills/tailwind.png",
+            "./img/skills/react.png"
+        ]
+    },
+    {
+        "title": "GYM-SITE",
+        "image": "./img/projects/proj-7.png",
+        "urlGithub": "https://github.com/elkwawy/GYM-SITE",
+        "urlSite": "https://gym-site-16.vercel.app",
+        "skills": [
+            "./img/skills/react.png",
+            "./img/skills/css.png"
+        ]
+    },
+    {
         "title": "Controllers-website",
-        "image": "./img/proj-6.png",
+        "image": "./img/projects/proj-6.png",
         "urlGithub": "https://github.com/elkwawy/Controllers-website",
         "urlSite": "https://elkwawy.github.io/Controllers-website/",
         "skills": [
-            "./img/html-5.png",
-            "./img/css-3.png"
+            "./img/skills/html.png",
+            "./img/skills/css.png"
         ]
     },
     {
         "title": "Presonal-website",
-        "image": "./img/proj-4.png",
+        "image": "./img/projects/proj-4.png",
         "urlGithub": "https://github.com/elkwawy/Personal-website",
         "urlSite": "https://elkwawy.github.io/Personal-website/",
         "skills": [
-            "./img/html-5.png",
-            "./img/css-3.png",
-            "./img/js.png"
+            "./img/skills/html.png",
+            "./img/skills/css.png",
+            "./img/skills/js.png"
         ]
     },
     {
         "title": "Bondi-website",
-        "image": "./img/proj-5.png",
+        "image": "./img/projects/proj-5.png",
         "urlGithub": "https://github.com/elkwawy/Bondi-website ",
         "urlSite": "https://elkwawy.github.io/Bondi-website/",
         "skills": [
-            "./img/html-5.png",
-            "./img/css-3.png",
-            "./img/bootstrap.png"
+            "./img/skills/html.png",
+            "./img/skills/css.png",
+            "./img/skills/bootstrap.png"
         ]
     },
     {
         "title": "Kasper-website",
-        "image": "./img/proj-3.png",
+        "image": "./img/projects/proj-3.png",
         "urlGithub": "https://github.com/elkwawy/Kasper-website",
         "urlSite": "https://elkwawy.github.io/Kasper-website/",
         "skills": [
-            "./img/html-5.png",
-            "./img/css-3.png"
+            "./img/skills/html.png",
+            "./img/skills/css.png"
         ]
     },
     {
         "title": "To-Do List",
-        "image": "./img/proj-2.png",
+        "image": "./img/projects/proj-2.png",
         "urlGithub": "https://github.com/elkwawy/To-Do-List",
         "urlSite": "https://elkwawy.github.io/To-Do-List/",
         "skills": [
-            "./img/html-5.png",
-            "./img/css-3.png",
-            "./img/js.png"
+            "./img/skills/html.png",
+            "./img/skills/css.png",
+            "./img/skills/js.png"
         ]
     },
     {
         "title": "Leon-website",
-        "image": "./img/proj-1.png",
+        "image": "./img/projects/proj-1.png",
         "urlGithub": "https://github.com/elkwawy/Leon-website",
         "urlSite": "https://elkwawy.github.io/Leon-website/",
         "skills": [
-            "./img/html-5.png",
-            "./img/css-3.png"
+            "./img/skills/html.png",
+            "./img/skills/css.png"
         ]
     }
 ]

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "HTML",
+        "image": "./img/skills/html.png"
+    },
+    {
+        "name": "CSS",
+        "image": "./img/skills/css.png"
+    },
+    {
+        "name": "JavaScript",
+        "image": "./img/skills/js.png"
+    },
+    {
+        "name": "Bootstrap",
+        "image": "./img/skills/bootstrap.png"
+    },
+    {
+        "name": "Tailwind",
+        "image": "./img/skills/tailwind.png"
+    },
+    {
+        "name": "Npm",
+        "image": "./img/skills/programing.png"
+    },
+    {
+        "name": "ReactJS",
+        "image": "./img/skills/react.png"
+    },
+    {
+        "name": "Redux",
+        "image": "./img/skills/redux.png"
+    },
+    {
+        "name": "React-Router",
+        "image": "./img/skills/react-router.png"
+    },
+    {
+        "name": "Git",
+        "image": "./img/skills/git.png"
+    },
+    {
+        "name": "Github",
+        "image": "./img/skills/github.png"
+    },
+    {
+        "name": "CPP",
+        "image": "./img/skills/c++.png"
+    },
+    {
+        "name": "Python",
+        "image": "./img/skills/python.png"
+    },
+    {
+        "name": "Terminal",
+        "image": "./img/skills/Terminal.png"
+    },
+    {
+        "name": "Notion",
+        "image": "./img/skills/notion.png"
+    },
+    {
+        "name": "VS Code",
+        "image": "./img/skills/vs-code.png"
+    }
+]

@@ -2,7 +2,6 @@ fetch("../data/projects.json")
   .then((response) => response.json())
   .then((data) => {
     data.map((project) => {
-
       let row = document.createElement("div");
       row.classList.add("row");
       let img = document.createElement("img");
@@ -26,7 +25,9 @@ fetch("../data/projects.json")
       mainRow.appendChild(rowIcon);
       let a_github = document.createElement("a");
       a_github.target = "_blank";
-      a_github.href = project.urlGithub;
+      if (!(project.urlGithub === "private")) {
+        a_github.href = project.urlGithub;
+      }
       let i_github = document.createElement("i");
       i_github.className = "ri-code-s-slash-line";
       a_github.appendChild(i_github);
@@ -38,7 +39,7 @@ fetch("../data/projects.json")
       i_view.className = "ri-eye-line";
       a_view.appendChild(i_view);
       rowIcon.appendChild(a_view);
-     //*******************************************
+      //*******************************************
       let createdBy = document.createElement("div");
       createdBy.className = "created-by";
       row.appendChild(createdBy);
@@ -48,7 +49,7 @@ fetch("../data/projects.json")
         img_html.src = skill;
         img_html.alt = "skill";
         createdBy.appendChild(img_html);
-      })
+      });
       document.querySelector(".projects-content").appendChild(row);
     });
   });
