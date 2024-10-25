@@ -1,66 +1,66 @@
 [
     {
         "name": "HTML",
-        "image": "./img/skills/html.png"
+        "image": "./img/skills/html.webp"
     },
     {
         "name": "CSS",
-        "image": "./img/skills/css.png"
+        "image": "./img/skills/css.webp"
     },
     {
         "name": "JavaScript",
-        "image": "./img/skills/js.png"
+        "image": "./img/skills/js.webp"
     },
     {
         "name": "Bootstrap",
-        "image": "./img/skills/bootstrap.png"
+        "image": "./img/skills/bootstrap.webp"
     },
     {
         "name": "Tailwind",
-        "image": "./img/skills/tailwind.PNG"
+        "image": "./img/skills/tailwind.webp"
     },
     {
         "name": "Npm",
-        "image": "./img/skills/npm.png"
+        "image": "./img/skills/npm.webp"
     },
     {
         "name": "ReactJS",
-        "image": "./img/skills/react.png"
+        "image": "./img/skills/react.webp"
     },
     {
         "name": "Redux",
-        "image": "./img/skills/redux.png"
+        "image": "./img/skills/redux.webp"
     },
     {
         "name": "React Router",
-        "image": "./img/skills/react-router.png"
+        "image": "./img/skills/react-router.webp"
     },
     {
         "name": "Git",
-        "image": "./img/skills/git.png"
+        "image": "./img/skills/git.webp"
     },
     {
         "name": "Github",
-        "image": "./img/skills/github.png"
+        "image": "./img/skills/github.webp"
     },
     {
         "name": "CPP",
-        "image": "./img/skills/c++.png"
+        "image": "./img/skills/c++.webp"
     },
     {
         "name": "Python",
-        "image": "./img/skills/python.png"
+        "image": "./img/skills/python.webp"
     },
     {
         "name": "Terminal",
-        "image": "./img/skills/Terminal.png"
+        "image": "./img/skills/Terminal.webp"
     },
     {
         "name": "Notion",
-        "image": "./img/skills/notion.png"
+        "image": "./img/skills/notion.webp"
     },
     {
         "name": "VS Code",
-        "image": "./img/skills/vs-code.png"
+        "image": "./img/skills/vs-code.webp"
     }
 ]
