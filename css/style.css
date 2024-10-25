@@ -167,6 +167,7 @@ span {
 }
 .hero .main-content .social {
   margin-bottom: 40px;
+  margin-left: 0px;
 }
 .hero .main-content .social i {
   display: inline-flex;
@@ -572,7 +573,7 @@ form .send-btn:hover {
     font-size: 27px !important;
   }
   .hero {
-    padding: 335px 5% 300px;
+    padding: 320px 5% 300px;
   }
   header .logo {
     font-size: 26px !important;
