@@ -1,6 +1,6 @@
 [
     {
-        "title": "GYM-SITE",
+        "title": "Accessories-website",
         "image": "./img/projects/proj-8.webp",
         "urlGithub": "private",
         "urlSite": "https://accessories16.vercel.app",
@@ -10,7 +10,7 @@
         ]
     },
     {
-        "title": "GYM-SITE",
+        "title": "Gym-website",
         "image": "./img/projects/proj-7.webp",
         "urlGithub": "https://github.com/elkwawy/GYM-SITE",
         "urlSite": "https://gym-site-16.vercel.app",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "title": "Controllers-website",
+        "title": "Dashboard",
         "image": "./img/projects/proj-6.webp",
         "urlGithub": "https://github.com/elkwawy/Controllers-website",
         "urlSite": "https://elkwawy.github.io/Controllers-website/",
